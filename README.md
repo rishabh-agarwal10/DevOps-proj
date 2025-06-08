@@ -49,7 +49,6 @@ helm upgrade --install monitoring prometheus-community/kube-prometheus-stack -f 
 ### 6. Apply External Secrets
 ```bash
 kubectl apply -f k8s-manifests/secrets-manager/secret-store.yaml
-kubectl apply -f k8s-manifests/secrets-manager/external-secret.yaml
 ```
 
 ## 🔐 Secret Management
