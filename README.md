@@ -73,9 +73,5 @@ Refer to the project root layout in this document.
 cd terraform
 terraform destroy -auto-approve
 ```
-
-## 📄 License
-MIT
-
 ---
-Maintained by [Your Name](https://github.com/yourusername) ✨
+Maintained by [Rishabh Agarwal](https://github.com/yourusername) ✨
